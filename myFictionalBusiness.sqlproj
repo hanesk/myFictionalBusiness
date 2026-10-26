@@ -61,5 +61,6 @@
     <None Include="Create DB and Tables.sql" />
     <None Include="Foreign Keys and Indicies.sql" />
     <None Include="Insert Data.sql" />
+    <None Include="SQL Select Queries.sql" />
   </ItemGroup>
 </Project>
