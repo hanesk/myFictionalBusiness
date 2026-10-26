@@ -62,5 +62,7 @@
     <None Include="Foreign Keys and Indicies.sql" />
     <None Include="Insert Data.sql" />
     <None Include="SQL Select Queries.sql" />
+    <None Include="SQL Update Queries.sql" />
+    <None Include="Income Summary Table.sql" />
   </ItemGroup>
 </Project>
